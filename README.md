@@ -1,6 +1,8 @@
 # Vuex-Typescript [![Build Status](https://travis-ci.org/istrib/vuex-typescript.svg?branch=master)](https://travis-ci.org/istrib/vuex-typescript) [![Coverage Status](https://coveralls.io/repos/github/istrib/vuex-typescript/badge.svg?branch=master)](https://coveralls.io/github/istrib/vuex-typescript?branch=master) [![npm version](https://badge.fury.io/js/vuex-typescript.svg)](https://badge.fury.io/js/vuex-typescript)
 
-[https://github.com/istrib/vuex-typescript/](https://github.com/istrib/vuex-typescript/)
+Origin:[https://github.com/istrib/vuex-typescript/](https://github.com/istrib/vuex-typescript/)
+
+This repo is just for vue2.5+ and migrating to vuex3+.
 
 A simple way to get static typing, static code analysis and intellisense with Vuex library.
 
