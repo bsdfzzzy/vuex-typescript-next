@@ -1,7 +1,7 @@
 {
-  "name": "vuex-typescript",
-  "version": "0.1.0",
-  "description": "A simple way to get static typing, static code analysis and intellisense with Vuex library.",
+  "name": "vuex-typescript-next",
+  "version": "1.0.0",
+  "description": "A simple way to get static typing, static code analysis and intellisense with Vuex3+ library.",
   "files": [
     "dist/index.js",
     "dist/index.d.ts"
